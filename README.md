@@ -1,2 +1,5 @@
 # hello-world
-First Repository
+
+Hello, Cretins!
+
+This is me attempting to learn Github -_- 
